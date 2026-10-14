@@ -17,6 +17,6 @@ An educational Unity game that teaches kids block-based programming through Saud
 
 <img src="./assets/bot.gif" align="right" width="140" alt="Cute robot" />
 
-## Find Me Around the Web 🌎:
+<!-- ## Find Me Around the Web 🌎:
 
-[LinkedIn](https://linkedin.com/in/ghala-almalki) · [Email](mailto:ghala.almalki.cs@gmail.com)
+[LinkedIn](https://linkedin.com/in/ghala-almalki) · [Email](mailto:ghala.almalki.cs@gmail.com) -->
