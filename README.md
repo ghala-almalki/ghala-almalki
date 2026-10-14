@@ -1,1 +1,1 @@
-# Hello, I'm Ghala <img src="./lizard.gif" width="100" alt="Waving lizard" valign="middle" />
+# Hello, I'm Ghala <img src="./lizard.gif" width="120" alt="Waving lizard" style="vertical-align: middle;" />
