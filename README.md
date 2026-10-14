@@ -1,4 +1,4 @@
 <h1>
   Hello, I'm Ghala
-  <img src="./lizard.gif" width="120" alt="Waving lizard" align="middle" />
+  <img src="./lizard.gif" width="120" alt="Waving lizard" style="vertical-align: 10;" />
 </h1>
