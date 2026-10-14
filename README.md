@@ -1,1 +1,1 @@
-<h1 align="center">Hello, I'm Ghala <img src="./assets/lizard.gif" width="120" alt="Waving lizard" />
+<h1 align="left">Hello, I'm Ghala! <img src="./assets/lizard.gif" width="120" alt="Waving lizard" align="absmiddle" /></h1>
