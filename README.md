@@ -1,2 +1,3 @@
-# Hello<img src="./assets/lizard.gif" height="110" align="absmiddle" alt="Waving lizard" />
-#I'm Ghala 
+<img src="./assets/lizard.gif" width="150" alt="Waving lizard" />
+
+# Hello, I'm Ghala!
