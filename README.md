@@ -1,5 +1,5 @@
 # Hello, I'm Ghala <img src="./assets/lizard.gif" height="100" align="absmiddle" alt="Waving lizard" />
-<img src="./assets/banner.png" alt="Ghala Al-Malki · AI Developer & Software Developer" width="100%" />
+<img src="./assets/banner.png" alt="Ghala Al-Malki · AI & Software Developer" width="100%" />
 
 I tend to turn my random ideas into coding projects.
 
